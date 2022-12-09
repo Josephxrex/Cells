@@ -19,8 +19,7 @@ Create a web page that is capable of displaying a catalog with the information c
 | ----------------- | ------------------------------------------------------------------ |
 | Primary color | ![#AC3F45](https://via.placeholder.com/10/AC3F45?text=+) #AC3F45 |
 | Secondary Color | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+
 
 
 ## Authors
