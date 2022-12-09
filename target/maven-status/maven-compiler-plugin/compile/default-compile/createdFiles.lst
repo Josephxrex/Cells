@@ -1,0 +1,13 @@
+entities\Cell.class
+web\ServletCell.class
+datos\ArticleDAO.class
+datos\CellDAO.class
+datos\ResearcherDAO.class
+entities\Researcher.class
+entities\Publisher.class
+web\ServletArticle.class
+web\ServletPublisher.class
+datos\PublisherDAO.class
+datos\Conexion.class
+entities\Article.class
+web\ServletLogin.class
